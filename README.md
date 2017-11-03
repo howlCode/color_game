@@ -1,4 +1,3 @@
-**SEE LIVE HERE: https://micromanyth.github.io/color_game/ **
 
 The Great RGB Color Game
 
